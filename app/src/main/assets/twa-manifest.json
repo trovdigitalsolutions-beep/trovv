@@ -1,0 +1,9 @@
+{
+    "name": "HellTown's Finest",
+    "short_name": "TheHTFC",
+    "description": "best online shopify store",
+    "start_url": "https://thehtfc.com/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
